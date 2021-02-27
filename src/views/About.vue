@@ -1,5 +1,24 @@
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
+  <div class="CART">
+    <h1 style="color:indigo">SHOPPING CART</h1>
+     <cart />
+
+
+
+     
   </div>
 </template>
+
+<script>
+// @ is an alias to /src
+
+// import Cart from '../components/Cart.vue';
+
+// export default {
+//   name: "Home",
+//   components: {
+   
+//     Cart
+//   }
+// };
+</script>
